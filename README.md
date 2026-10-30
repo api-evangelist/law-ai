@@ -64,5 +64,115 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-law-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://law.ai/
+Law.AI is an AI-powered lawyer directory and matching platform that helps users find trusted, bar-verified attorneys across the United States. With over 838,000 verified lawyer profiles, the service lets users search by practice area, city, and state, and provides AI-driven matching to connect clients with the most suitable legal professionals. The platform is free to use and aims to expand access to justice.
+
+**Areas:** LegalTech · AI · Law · Directory · Marketplace
+
+## law-ai on APIs.io
+
+Everything profiled for law-ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/law-ai/](https://apis.io/providers/law-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Law.AI MCP Server](https://apis.io/apis/law-ai/law-ai-mcp/) — Law.AI MCP Server provides tools for searching lawyers, retrieving profiles, practice areas, and jurisdictions via the MCP protocol.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Law Ai Authentication](https://apis.io/security/law-ai/law-ai-authentication/)
+- [Law Ai Domain Security](https://apis.io/security/law-ai/law-ai-domain-security/)
+- [Law Ai Trust Center](https://apis.io/security/law-ai/law-ai-trust-center/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Law Ai Scopes](https://apis.io/scopes/law-ai/law-ai-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Law Ai Plans Pricing](https://apis.io/plans/law-ai/law-ai-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Law Ai Rate Limits](https://apis.io/rate-limits/law-ai/law-ai-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://law.ai/)
+- [Documentation](https://law.ai/developers)
+- [Getting started](https://law.ai/developers)
+- [API reference](https://law.ai/api)
+- [Pricing](https://law.ai/lawyers/pricing)
+- [Support](https://support.law.ai/support/home)
+- [Blog](https://law.ai/blog)
+- [Security](https://law.ai/security)
+- [Compliance](https://law.ai/security)
+- [Terms of service](https://law.ai/terms)
+- [Privacy policy](https://law.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 28.1** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 47.4 |
+
+**Agent readiness 5.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/law-ai/](https://apis.io/providers/law-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for law-ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/law-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
